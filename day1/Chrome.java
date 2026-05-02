@@ -1,4 +1,4 @@
-package org.testleaf.week1.day1;
+package testleaf.week1.day1;
 
 public class Chrome {
 public static void main(String[] args) {
